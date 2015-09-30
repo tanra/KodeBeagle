@@ -63,6 +63,8 @@ To create an updated version of your extension:
 
 ### Publishing an extension
 **_Note:_** A one-time developer registration fee of US$5.00 is required to verify your account and publish items.
+
 1. [Click here](https://chrome.google.com/webstore/developer/dashboard) to publish chrome extension.
 2. Follow the steps in the below YouTube video.
+
 [![Image](http://img.youtube.com/vi/Gn_jlvkHTnM/0.jpg)](https://www.youtube.com/watch?v=Gn_jlvkHTnM)
