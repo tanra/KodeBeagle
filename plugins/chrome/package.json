@@ -1,0 +1,24 @@
+{
+  "name": "KodeBeagle",
+  "version": "0.1.1",
+  "description": "KodeBeagle Chrome extension. An extension that makes searching selected piece of java code easily searcheable on KodeBeagle.",
+  "main": "background.js",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-crx": "git+https://github.com/PavelVanecek/gulp-crx.git"
+  },
+  "keywords": [
+    "Chrome",
+    "Pramati",
+    "KodeBeagle"
+  ],
+  "author": "Pramati",
+  "contributors": [
+      {
+        "name":"Prashanth Ambure",
+        "email":"prashanth.ambure@imaginea.com"
+      }
+  ],
+  "private": true,
+  "license": "MIT"
+}
